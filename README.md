@@ -10,7 +10,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Power BI](#tableau)
 - [Katie's Guides](#katies-guides)
 
-# Data Engineering
+# Data science
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
