@@ -1,6 +1,5 @@
-# Maheshwar's-Portfolio Projects
-A Guide to my Portfolio Projects and Work Summary 
-# 🗺 Katie's Portfolio
+
+# 🗺  Maheshwar's-Portfolio Projects
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
