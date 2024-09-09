@@ -8,7 +8,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [SQL](#sql)
 - [Python](#python)
 - [Power BI](#tableau)
-- [Katie's Guides](#katies-guides)
+
 
 # Data science
 
